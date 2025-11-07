@@ -5,7 +5,7 @@
 ## Formación académica
 - Bachiller Academico 
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
-## Habilidades
+  ## Habilidades
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas como GitHub y NetBeans
 ## Informacion Laboral
@@ -19,3 +19,9 @@
 - Trabajo en equipo
 - Actitud positiva
 - Adaptabilidad y aprendizaje rápido
+  ## Habilidades
+- Ventas telefónicas (cross selling, up selling, cierre de ventas)
+- Manejo de objeciones
+- Atención al cliente y servicio postventa
+-Uso de herramientas ofimáticas (Word, Excel, correo corporativo)
+  
