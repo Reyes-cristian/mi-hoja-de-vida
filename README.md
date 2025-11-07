@@ -19,7 +19,7 @@
 - Trabajo en equipo
 - Actitud positiva
 - Adaptabilidad y aprendizaje rápido
-  ## Habilidades
+  ## Habilidades técnicas
 - Ventas telefónicas (cross selling, up selling, cierre de ventas)
 - Manejo de objeciones
 - Atención al cliente y servicio postventa
